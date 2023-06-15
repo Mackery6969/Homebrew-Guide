@@ -84,7 +84,7 @@ Step 0: What You Will Need
 Step 1: Format your SD Card
 ---------------------------
 
-The Wii U needs a FAT32 formatted SD card. However unlike the Switch, **only FAT32 works!**. If you need to format your SD on Windows and you can't find FAT32 as a selectable option, use `guiformat <http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm>`_ and set the Allocation Unit Size to 32K (32768).
+The Wii U needs a FAT32 formatted SD card. However unlike the Switch, **only FAT32 works!**. If you need to format your SD on Windows and you can't find FAT32 as a selectable option, use `guiformat <http://www.ridgecrop.demon.co.uk/index.htm?guiformat.html>`_ and set the Allocation Unit Size to 32K (32768).
 
 .. important::
 
